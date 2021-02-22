@@ -4,8 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testsases.Tc01"/>
-      <class name="testsases.Tc3"/>
-      <class name="testsases.Tc2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
